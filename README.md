@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**TugrulGokce/TugrulGokce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Tugrul</h1>
 <h3 align="center">I'm interested in big data, data science and machine learning.I develop myself in these areas.</h3>
 
@@ -23,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugrulgokce&show_icons=true&locale=en&layout=compact" alt="tugrulgokce" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tugrulgokce&show_icons=true&locale=en" alt="tugrulgokce" /></p>
-
--->
