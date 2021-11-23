@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tugrulgokce&label=Profile%20views&color=0e75b6&style=flat" alt="tugrulgokce" /> </p>
 
-- 🌱 I’m currently learning **machine learning, statistics, big data tools**
+- 🌱 I’m currently learning **machine learning, data engineering, big data tools**
 
 - 📫 How to reach me **tudi2232@gmail.com**
 
