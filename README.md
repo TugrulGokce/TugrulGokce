@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning, data engineering, big data tools**
 
-- 📫 How to reach me **tudi2232@gmail.com**
+- 📫 How to reach me **tugrulgkc1@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
