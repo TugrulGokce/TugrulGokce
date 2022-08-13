@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tugrul</h1>
-<h3 align="center">I'm interested in big data, data science and machine learning.I develop myself in these areas.</h3>
+<h3 align="center">I'm interested in big data, data engineering and machine learning.I develop myself in these areas.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tugrulgokce&label=Profile%20views&color=0e75b6&style=flat" alt="tugrulgokce" /> </p>
 
