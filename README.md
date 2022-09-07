@@ -1,31 +1,17 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12163
-Fork on GitHub
-3061
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Tugrul Gokce</h1>
 <h3 align="center">A passionate data engineering and big data development areas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tugrulgokce&label=Profile%20views&color=0e75b6&style=flat" alt="tugrulgokce" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugrulgokce" alt="tugrulgokce" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@TugrulGokce](https://medium.com/@TugrulGokce)
 
 - 💬 Ask me about **Apache Spark, Apache Kafka, Python, FastAPI, Redis, Apache Cassandra**
 
 - 📫 How to reach me **tugrulgkc1@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
